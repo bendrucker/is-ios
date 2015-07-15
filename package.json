@@ -1,7 +1,7 @@
 {
   "name": "is-ios",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Detect iOS user agents",
   "license": "MIT",
   "repository": "bendrucker/is-ios",
