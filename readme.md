@@ -1,4 +1,4 @@
-# is-ios [![Build Status](https://travis-ci.org/bendrucker/is-ios.svg?branch=master)](https://travis-ci.org/bendrucker/is-ios)
+# is-ios [![tests](https://github.com/bendrucker/is-ios/workflows/tests/badge.svg)](https://github.com/bendrucker/is-ios/actions?query=workflow%3Atests)
 
 > Detect iOS user agents
 
