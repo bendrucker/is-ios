@@ -1,3 +1,3 @@
-declare function iOS(): boolean;
+declare const iOS: boolean;
 
 export = iOS;
